@@ -70,4 +70,5 @@ const course={
 }
 // console.log(course.courseInstructor); OR
 const {coursename:ins} = course
-console.log(ins);
+console.log(ins); 
+const day =[]
