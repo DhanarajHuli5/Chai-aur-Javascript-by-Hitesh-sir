@@ -1,5 +1,5 @@
-const muNums=[1,2,3]
+const myNums=[1,2,3]
 
-const myTotal = muNums.reduce(function (acc, curr) {
-    return acc + currval
+const myToatal = myNums.reduce(function (acc, curr) {
+    ret
 })
